@@ -20,7 +20,7 @@ export default function Home() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
-          brandName="DentalCare"
+          brandName="dqwdqwfq"
           button={{
             text: "Book Appointment",
             href: "contact"
