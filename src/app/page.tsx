@@ -30,8 +30,8 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Your Trusted Dental Care Partner"
-          description="Experience comprehensive dental care with our skilled team. From routine cleanings to advanced procedures, we're here for your smile."
+          title="hhjghjgkhgg"
+          description="qwfwqfwfq"
           tag="Excellence in Dental Care"
           tagIcon={Star}
           buttons={[
@@ -44,7 +44,7 @@ export default function Home() {
               href: "about"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/305568/pexels-photo-305568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/uploaded-1761328906179-j2yhkryr.jpg"
           imageAlt="Modern DentalCare clinic interior"
         />
       </div>
